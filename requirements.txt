@@ -1,0 +1,13 @@
+torch 
+git+https://github.com/davidbau/baukit 
+transformers 
+datasets 
+tqdm 
+huggingface_hub 
+seaborn 
+scikit-learn 
+pandas 
+numpy 
+matplotlib 
+scipy
+h5py
